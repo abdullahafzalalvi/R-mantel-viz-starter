@@ -1,0 +1,12 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Outputs (optional: remove these lines if you want to commit your outputs)
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
