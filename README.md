@@ -4,6 +4,7 @@ R-mantel-viz-starter
 # Demo script with synthetic data
  
 # Author:  Abdullah Afzal Alvi
+#Department of Plant production and Biotechnology
 # Mantel Test Visualization with linkET
 
 A reproducible R demo for performing pairwise Mantel tests between two variable blocks (physiological parameters and gene expression data) and visualizing the results using the [`linkET`](https://github.com/Hy4m/linkET) package.
